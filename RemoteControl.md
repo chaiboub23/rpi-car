@@ -38,7 +38,7 @@ def forward():
     return 'right'
 ```
 
-This code imports Flask and "render_template". Flask runs the webserver and "render_template" returns the html file we created to show that file. The `@app.route('/')' tells Flask that this function runs at the web address specified, in this case the homepage.
+This code imports Flask and "render_template". Flask runs the webserver and "render_template" returns the html file we created to show that file. The `@app.route('/')` tells Flask that this function runs at the web address specified, in this case the homepage.
 
 ```html
 <html>
