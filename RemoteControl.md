@@ -42,7 +42,7 @@ def forward():
     return 'right'
 ```
 
-This code imports Flask and "render_template". Flask runs the webserver and "render_template" returns the html file we created to show that file. The reason we put the html file in the templates folder was so that you can render the template html and use it with flask. The `@app.route('/')` tells Flask that this function runs at the web address specified, in this case the homepage. The other routes redirect to other pages, which run the functions for the Raspberry Pi car.
+This code imports Flask and "render_template". Flask runs the webserver and "render_template" returns the HTML file we created to show that file. The reason we put the HTML file in the templates folder was so that you can render the template HTML and use it with Flask. The `python @app.route('/')` tells Flask that this function runs at the web address specified, in this case the homepage. The other routes redirect to other pages, which run the functions for the Raspberry Pi car.
 
 ```html
 <html>
