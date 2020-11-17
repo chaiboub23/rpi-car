@@ -1,8 +1,5 @@
-# Raspberry Pi Robot Car Documentation
+# Raspberry Pi Robot Car Documentation - Camera
 
-This repository contains documentation about the Raspberry Pi robot car we built.
+This repository contains all the files for the Camera detection.
 
-## Credits:
-* Owen: 3D Design
-* Sherry: Code for controlling Raspberry Pi robot car
-* Bello: Code for remote control of Raspberry Pi wirelessly
+### Code by Sherry
