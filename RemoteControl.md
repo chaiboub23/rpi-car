@@ -8,6 +8,6 @@ ssh pi@raspberrypi03.local
 ```
 Next, ssh with IP address of the Raspberry Pi.
 ```
-ssh pi@10.40.11.241
+ssh pi@10.40.11.245
 ```
 Then you can move on to running the python files on the car's Raspberry Pi.
