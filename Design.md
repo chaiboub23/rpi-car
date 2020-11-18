@@ -28,4 +28,5 @@ This is if you had cosmetics in the design.
 
 ### Modifications
 
-* The first design was too heavy too move, so we used a hollow rectangular prism made from paper
+* The first design was too heavy too move, so we used a hollow rectangular prism made from paper. This allowed the car to be more mobile.
+* We used the plastic part of the motor, which had better torque, was easier to put the wheel on, and held the motor on better than the skinny metal rod. We glued the wheel and motor together, but make sure to not use too much glue or the motor will not work.
