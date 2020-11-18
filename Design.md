@@ -24,12 +24,12 @@ This step is where you want to make you want to customize your car to be yours. 
 ### Step 6: Print
 Print the design using a 3D printer.
 
-### Step 6: Solder Cosmetics on (Optional)
+### Step 7: Solder Cosmetics on (Optional)
 This is if you had cosmetics in the design.
 
 ## New Design
 
 ### Modifications
 
-* The first design was too heavy too move, so we used a hollow rectangular prism made from paper. This allowed the car to be more mobile.
+* The first design was too heavy to move, so we used a hollow rectangular prism made from paper. This allowed the car to be more mobile.
 * We used the plastic part of the motor, which had better torque, was easier to put the wheel on, and held the motor on better than the skinny metal rod. We glued the wheel and motor together, but make sure to not use too much glue or the motor will not work.
