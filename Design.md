@@ -3,8 +3,29 @@ This file is about the design process, from our first designs to other modificat
 
 ## Original Design
 
-### Step One: Measurements
+### Step 1: Measurements
 First, you want to measure all the items that will be placed inside the car. This includes the Raspberry Pi, the battery pack, the motors, and cables. Make sure there is space for everything.
 
-### Step Two: Create Design
-The origianal and modified designs are rectangular, made to fit all the items.
+### Step 2: Create Design
+The origianal and modified designs are rectangular, made to fit all the items. *IMG_0269.HEIC* is the first design, while *IMG_0270.HEIC* is the second design. They both can fit all the items inside them.
+
+### Step 2.5: Make sure there is a hollow space inside the design
+This is for when you are 3D-printing your design, such as our first one. This is so that you print a design where you can fit everything in and not a slab
+
+### Step 3: Incorporate wheel holes in design
+Add the wheel holes to fit the motor. This means that the holes can fit the motor and make sure that the motor and wheel can connect. Make sure that either the hole isn't too big or a reprint is necessary. Small holes can always be fixed with some soldering skills.
+
+### Step 4: Add Cosmetics (Optional)
+This step is where you want to make you want to customize your car to be yours. Add whatever designs you want!
+
+### Step 5: Print
+Print the design using a 3D printer.
+
+### Step 6: Solder Cosmetics on (Optional)
+This is if you had cosmetics in the design.
+
+## New Design
+
+### Modifications
+
+* The first design was too heavy too move, so we used a hollow rectangular prism made from paper
